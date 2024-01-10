@@ -1,0 +1,28 @@
+body {
+    background-color: #5f9ea0;
+    font-family: 'Noto Sans TC', sans-serif;
+
+}
+
+h1 {
+    color: white;
+    height: 50px;
+    margin-right: 20px;
+    text-align: center;
+    text-decoration-color: white;
+    margin: 10%;
+    border-style: ridge;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+
+}
+
+.nav-list {
+    margin-right: 10px;
+    text-decoration: underline;
+
+}
